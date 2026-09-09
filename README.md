@@ -3,7 +3,7 @@
 <img src="./icons/system/brand-mark.svg" width="72" alt="OPERIX Solutions" />
 
 # OPERIX Solutions
-### `mindbreakops`
+### `OPERIX Solutions`
 
 **Enterprise Software Architecture · AI Systems · Mobile Engineering · GIS Platforms**
 
