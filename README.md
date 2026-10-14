@@ -18,7 +18,7 @@
   <a href="https://operix-solutions.com"><img src="https://img.shields.io/badge/Production_Systems-14_Apps-2563EB?style=for-the-badge&logo=adguard&logoColor=white" alt="Production Systems" /></a>
   <a href="https://operix-solutions.com"><img src="https://img.shields.io/badge/Markets-KSA_and_Sudan-059669?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Markets" /></a>
   <a href="https://operix-solutions.com"><img src="https://img.shields.io/badge/Bilingual-Arabic_%2B_English-7C3AED?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Bilingual" /></a>
-  <a href="https://github.com/operas"><img src="https://img.shields.io/badge/License-Proprietary_/_MIT-1E293B?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="License" /></a>
+  <a href="https://github.com/operixs"><img src="https://img.shields.io/badge/License-Proprietary_/_MIT-1E293B?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="License" /></a>
 </p>
 
 </div>
@@ -291,11 +291,11 @@ Every OPERIX product is built for the regulatory reality of the markets it serve
 <div align="center">
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=operas&background=FAF7F2&text=2D2B2A&title=2563EB&icon=2563EB&border=E6E1D6" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=operixs&background=FAF7F2&text=2D2B2A&title=2563EB&icon=2563EB&border=E6E1D6" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=operas&layout=compact&bg_color=FAF7F2&text_color=2D2B2A&title_color=2563EB&border_color=E6E1D6&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=operixs&layout=compact&bg_color=FAF7F2&text_color=2D2B2A&title_color=2563EB&border_color=E6E1D6&hide_border=false" alt="Top Languages" />
 </p>
 
 </div>
@@ -314,8 +314,8 @@ Every OPERIX product is built for the regulatory reality of the markets it serve
   <a href="https://operix-solutions.com">
     <img src="https://img.shields.io/badge/Website-operix_solutions.com-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
-  <a href="https://github.com/operas">
-    <img src="https://img.shields.io/badge/GitHub-operas-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/operixs">
+    <img src="https://img.shields.io/badge/GitHub-operixs-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://linkedin.com">
     <img src="https://img.shields.io/badge/LinkedIn-OPERIX_Solutions-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -326,7 +326,7 @@ Every OPERIX product is built for the regulatory reality of the markets it serve
 </p>
 
 <p align="center">
-  <b>Designed & Built with ❤️ by OPERIX Solutions (`operas`)</b>
+  <b>Designed & Built with ❤️ by OPERIX Solutions (`operixs`)</b>
 </p>
 
 </div>
